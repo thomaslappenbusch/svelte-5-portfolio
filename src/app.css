@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+:root {
+    --font-sans: 'Host Grotesk', sans-serif;
+}
+
+@theme {
+    --color-primary: rgba(238, 238, 228);
+    --color-secondary: rgba(214, 214, 204);
+    --color-tertiary: rgba(190, 190, 180);
+    --color-faint: rgb(150, 150, 150);
+    
+    --color-background: rgba(11, 11, 12);
+    --color-background-secondary: rgba(20, 20, 21);
+    --color-background-tertiary: rgba(30, 30, 31);
+
+    --color-accent: rgba(59, 130, 246);
+}
