@@ -21,10 +21,10 @@ The template includes a centralized `portfolioContent` object that manages all y
 ## Getting Started
 ```bash
 # Clone this template repository
-git clone https://github.com/yourusername/personal-portfolio-template.git
+git clone https://github.com/thomaslappenbusch/svelte-5-portfolio.git
 
 # Navigate to project directory
-cd personal-portfolio-template
+cd svelte-5-portfolio
 
 # Install dependencies
 npm install
