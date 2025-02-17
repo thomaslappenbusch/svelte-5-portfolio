@@ -1,4 +1,4 @@
-# Personal Portfolio Template - A Coastal UI Project
+# Svelte 5 Portfolio Template - A Coastal UI Project
 A modern, sleek portfolio template built with Svelte 5 and Tailwind CSS. Perfect for showcasing your work, experience, and skills in a professional manner.
 
 Join our growing community on [Discord](https://discord.gg/fB5uJYYD8E) for support and feature discussions! Also visit [Coastal UI](https://coastalui.com) to learn more about our components and projects.
