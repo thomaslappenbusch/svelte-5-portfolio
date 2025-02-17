@@ -9,8 +9,8 @@
 
     const portfolioContent: any = {
         introduction: {
-            name: "Jonathan Smith",
-            occupation: "Startup Founder @ Resend",
+            name: "Thomas Lappenbusch",
+            occupation: "Front-end Developer",
             description: "A software engineer from Dallas Texas. Have experience using React, Tailwind, Svelte and more. Looking for new and exciting projects in the software space. Let's connect!",
             avatar: "https://avatars.githubusercontent.com/u/04?v=4",
             socials: {
