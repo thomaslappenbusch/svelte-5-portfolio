@@ -1,38 +1,36 @@
-# sv
+# Svelte 5 Portfolio Template - A Coastal UI Project
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+[Click Here for Live Demo](https://svelte-5-portfolio.vercel.app/)
 
-## Creating a project
+A modern, sleek portfolio template built with Svelte 5 and Tailwind CSS. Perfect for showcasing your work, experience, and skills in a professional manner.
 
-If you're seeing this, you've probably already done this step. Congrats!
+Join our growing community on [Discord](https://discord.gg/fB5uJYYD8E) for support and feature discussions! Also visit [Coastal UI](https://coastalui.com) to learn more about our components and projects.
 
+## Features
+The template includes a centralized `portfolioContent` object that manages all your personal information:
+- Introduction section with social links
+- Work experience timeline
+- Education history
+- Technical skills showcase
+- Personal projects gallery
+- Interactive component showcase
+
+## Tech Stack
+- **Svelte 5** - Leveraging the latest features including runes
+- **Tailwind CSS** - Utility-first styling for modern designs
+- **TypeScript** - Type-safe development
+- **Lucide Icons** - Beautiful, consistent icons
+
+## Getting Started
 ```bash
-# create a new project in the current directory
-npx sv create
+# Clone this template repository
+git clone https://github.com/thomaslappenbusch/svelte-5-portfolio.git
 
-# create a new project in my-app
-npx sv create my-app
-```
+# Navigate to project directory
+cd svelte-5-portfolio
 
-## Developing
+# Install dependencies
+npm install
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
+# Start development server
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
