@@ -21,7 +21,7 @@
 <div class="w-full flex flex-col items-center justify-center">
     <div class="flex flex-col sm:flex-row items-center justify-between w-full">
         <div class="flex flex-col sm:flex-row items-center w-full">
-            <img alt="avatar of Jonathan" src="https://avatars.githubusercontent.com/u/04?v=4" class="sm:h-16 sm:w-16 w-24 h-24 rounded-full shadow-lg shadow-background-secondary mb-2 sm:mb-0"/>
+            <img alt="avatar of Jonathan" src={data.avatar} class="sm:h-16 sm:w-16 w-24 h-24 rounded-full shadow-lg shadow-background-secondary mb-2 sm:mb-0"/>
             <div class="flex flex-col items-center sm:items-start sm:ml-4 w-full">
                 <div class="text-primary text-3xl">{data.name}</div>
                 <div class="text-faint text-sm sm:-mt-[2px]">{data.occupation}</div>
