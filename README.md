@@ -2,7 +2,7 @@
 
 [Click Here for Live Demo](https://svelte-5-portfolio.vercel.app/)
 
-![Portfolio Preview](static/Github.png)
+![Portfolio Preview](static/GitHub.png)
 
 A modern, sleek portfolio template built with Svelte 5 and Tailwind CSS. Perfect for showcasing your work, experience, and skills in a professional manner.
 
