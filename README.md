@@ -8,6 +8,10 @@ A modern, sleek portfolio template built with Svelte 5 and Tailwind CSS. Perfect
 
 Join our growing community on [Discord](https://discord.gg/fB5uJYYD8E) for support and feature discussions! Also visit [Coastal UI](https://coastalui.com) to learn more about our components and projects.
 
+## Hall of Fame Portfolios
+
+https://emadev.co/
+
 ## Features
 The template includes a centralized `portfolioContent` object that manages all your personal information:
 - Introduction section with social links
