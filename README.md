@@ -10,8 +10,8 @@ Join our growing community on [Discord](https://discord.gg/fB5uJYYD8E) for suppo
 
 ## Hall of Fame Portfolios
 
-https://emadev.co/
-https://www.thomaslap.dev/
+- https://emadev.co/
+- https://www.thomaslap.dev/
 
 ## Features
 The template includes a centralized `portfolioContent` object that manages all your personal information:
